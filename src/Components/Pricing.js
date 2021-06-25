@@ -7,7 +7,7 @@ export default function Pricing() {
         <>
      
     <div className='section'>
-        <a href="/" class="pricing-card">
+        <a to="#" class="pricing-card">
             <div className="box1">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width='60px' >
                     <title>Skype</title>
@@ -27,7 +27,7 @@ export default function Pricing() {
             </div>
         </a>
 
-        <a href="/" class="pricing-card">
+        <a to="#" class="pricing-card">
             <div className="box2">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width='60px' >
                     <title>Skype</title>
@@ -47,7 +47,7 @@ export default function Pricing() {
             </div>
         </a>
 
-        <a href="/" class="pricing-card">
+        <a to="#" class="pricing-card">
             <div className="box3">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width='60px'>
                     <title>Skype</title>
