@@ -22,7 +22,7 @@ export default function Footer() {
 
             <a href="#">Blog</a>
 
-            <a href="#">Pricing</a>
+            <a href="#">Pricings</a>
 
             <a href="#">About</a>
 
